@@ -1,4 +1,4 @@
-package exercicios_metodo.auala1;
+package exercicios_metodo.aula1;
 
 public class Main {
    public static void main(String[] args) {
