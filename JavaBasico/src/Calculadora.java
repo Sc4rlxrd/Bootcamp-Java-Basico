@@ -17,7 +17,11 @@ public class Calculadora {
         return numero1 / numero2;
     }
 
-    public static double retosDivisao(double numero1, double numero2){
+    public static double restoDivisao(double numero1, double numero2){
         return (numero1 % numero2);
     }
+
+   
 }
+
+
