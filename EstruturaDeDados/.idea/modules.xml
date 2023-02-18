@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArvoreBinaria/ArvoreBinaria.iml" filepath="$PROJECT_DIR$/ArvoreBinaria/ArvoreBinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtribuicaoEReferencia/AtribuicaoEReferencia.iml" filepath="$PROJECT_DIR$/AtribuicaoEReferencia/AtribuicaoEReferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncadeamentoEmNo/EncadeamentoEmNo.iml" filepath="$PROJECT_DIR$/EncadeamentoEmNo/EncadeamentoEmNo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstruturaDeDados.iml" filepath="$PROJECT_DIR$/.idea/EstruturaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fila/Fila.iml" filepath="$PROJECT_DIR$/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilaGenerics/FilaGenerics.iml" filepath="$PROJECT_DIR$/FilaGenerics/FilaGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilaNoEmbutido/FilaNoEmbutido.iml" filepath="$PROJECT_DIR$/FilaNoEmbutido/FilaNoEmbutido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementacoesDeEstruturaDeDados/ImplementacoesDeEstruturaDeDados.iml" filepath="$PROJECT_DIR$/ImplementacoesDeEstruturaDeDados/ImplementacoesDeEstruturaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaCirculares/ListaCirculares.iml" filepath="$PROJECT_DIR$/ListaCirculares/ListaCirculares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" filepath="$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasDuplamenteEncadeadas/ListasDuplamenteEncadeadas.iml" filepath="$PROJECT_DIR$/ListasDuplamenteEncadeadas/ListasDuplamenteEncadeadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/Pilha/Pilha.iml" />
+    </modules>
+  </component>
+</project>
